@@ -1,0 +1,7 @@
+[Default Applications]
+x-scheme-handler/tg=userapp-Kotatogram Desktop-OE06T2.desktop
+x-scheme-handler/tonsite=io.github.kukuruzka165.materialgram.desktop
+
+[Added Associations]
+x-scheme-handler/tg=userapp-Kotatogram Desktop-OE06T2.desktop;
+x-scheme-handler/tonsite=io.github.kukuruzka165.materialgram.desktop;
