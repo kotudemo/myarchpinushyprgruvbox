@@ -1,5 +1,5 @@
 
-set relativenumber
+set number relativenumber
 set tabstop=4
 set smarttab
 set shiftwidth=4
