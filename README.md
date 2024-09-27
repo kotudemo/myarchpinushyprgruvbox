@@ -1,2 +1,2 @@
 TUT VSE SPIZHENO
-![image](https://github.com/user-attachments/assets/5055d598-8726-4830-916e-9b90999b30dc)
+![screen-1727463869](https://github.com/user-attachments/assets/66056bf9-c127-4340-b874-f7f59792c891)
