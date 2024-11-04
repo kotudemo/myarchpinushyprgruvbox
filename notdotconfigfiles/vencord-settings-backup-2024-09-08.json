@@ -2,7 +2,7 @@
     "settings": {
         "autoUpdate": false,
         "autoUpdateNotification": true,
-        "useQuickCss": false,
+        "useQuickCss": true,
         "themeLinks": [],
         "enabledThemes": [],
         "enableReactDevtools": false,
@@ -361,9 +361,6 @@
                 "badges": true,
                 "messages": true
             },
-            "PronounDB": {
-                "enabled": false
-            },
             "QuickMention": {
                 "enabled": true
             },
@@ -399,10 +396,8 @@
                 "chatMentions": true,
                 "memberList": true,
                 "voiceUsers": true,
-                "reactorsList": true
-            },
-            "SearchReply": {
-                "enabled": false
+                "reactorsList": true,
+                "colorChatMessages": false
             },
             "SendTimestamps": {
                 "enabled": false,
@@ -493,7 +488,9 @@
             "UserVoiceShow": {
                 "enabled": true,
                 "showInUserProfileModal": true,
-                "showVoiceChannelSectionHeader": true
+                "showVoiceChannelSectionHeader": true,
+                "showInMemberList": true,
+                "showInMessages": true
             },
             "USRBG": {
                 "enabled": false,
@@ -544,7 +541,8 @@
                 "enabled": true
             },
             "SecretRingToneEnabler": {
-                "enabled": true
+                "enabled": true,
+                "onlySnow": false
             },
             "NormalizeMessageLinks": {
                 "enabled": true
@@ -599,7 +597,7 @@
                 "enabled": true
             },
             "ClientTheme": {
-                "enabled": true,
+                "enabled": false,
                 "color": "1e2327"
             },
             "Decor": {
@@ -752,6 +750,30 @@
             },
             "AlwaysExpandRoles": {
                 "enabled": false
+            },
+            "FullSearchContext": {
+                "enabled": false
+            },
+            "UserMessagesPronouns": {
+                "enabled": false
+            },
+            "DynamicImageModalAPI": {
+                "enabled": true
+            },
+            "AccountPanelServerProfile": {
+                "enabled": false
+            },
+            "CopyFileContents": {
+                "enabled": false
+            },
+            "FixImagesQuality": {
+                "enabled": false
+            },
+            "NoMaskedUrlPaste": {
+                "enabled": false
+            },
+            "StickerPaste": {
+                "enabled": false
             }
         },
         "notifications": {
@@ -764,7 +786,7 @@
             "authenticated": false,
             "url": "https://api.vencord.dev/",
             "settingsSync": false,
-            "settingsSyncVersion": 1724961546331
+            "settingsSyncVersion": 1730483108324
         },
         "notifyAboutUpdates": true,
         "macosTranslucency": false
