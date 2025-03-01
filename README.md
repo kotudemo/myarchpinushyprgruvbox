@@ -25,7 +25,7 @@
 
 ### Gtk theme for steam
 
-https://flathub.org/apps/com.valvesoftware.Steam
+https://flathub.org/apps/com.valvesoftware.Steam n\
 https://flathub.org/apps/io.github.Foldex.AdwSteamGtk
 
 ### Theming 
