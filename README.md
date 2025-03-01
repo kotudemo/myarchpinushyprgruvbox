@@ -33,3 +33,7 @@ https://flathub.org/apps/io.github.Foldex.AdwSteamGtk
 `gruvbox-dark-gtk` 
 `gruvbox-dark-icons-gtk`
 `nerd-fonts`
+
+### Extras
+If u r using Alpine/Openwrt/Debian-based/Arch-based/RPM-based u can use this script to setup zapret 
+https://github.com/Snowy-Fluffy/zapret.installer
