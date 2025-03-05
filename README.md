@@ -28,7 +28,7 @@
 ### Theme for steam
 
 https://flathub.org/apps/com.valvesoftware.Steam \
-https://flathub.org/apps/io.github.Foldex.AdwSteamGtk \
+https://flathub.org/apps/io.github.Foldex.AdwSteamGtk 
 
 ## Other flatpak software
 
