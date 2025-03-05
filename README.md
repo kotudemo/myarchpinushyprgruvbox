@@ -38,6 +38,10 @@ https://flathub.org/apps/com.discordapp.Discord
 `gruvbox-dark-gtk` 
 `gruvbox-dark-icons-gtk`
 `nerd-fonts`
+`kvantum`
+`qt5ct`
+`qt6ct` \
+https://github.com/TheExacc/Gruvbox-Kvantum
 
 ### Extras
 If u r using Alpine/Openwrt/Debian-based/Arch-based/RPM-based u can use this script to setup zapret 
