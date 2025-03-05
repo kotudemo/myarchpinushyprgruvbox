@@ -22,11 +22,17 @@
 `nemo`
 `mpv`
 `obs-studio`
+`transmission-gtk3`
+`chromium`
 
-### Gtk theme for steam
+### Theme for steam
 
 https://flathub.org/apps/com.valvesoftware.Steam \
-https://flathub.org/apps/io.github.Foldex.AdwSteamGtk
+https://flathub.org/apps/io.github.Foldex.AdwSteamGtk \
+
+## Other flatpak software
+
+https://flathub.org/apps/com.discordapp.Discord
 
 ### Theming 
 `nwg-look` 
