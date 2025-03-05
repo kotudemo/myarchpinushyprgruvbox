@@ -18,7 +18,6 @@
 `wlsunset`
 `wl-color-picker`
 `ark`
-`firefox-developer-edition`
 `nemo`
 `mpv`
 `obs-studio`
