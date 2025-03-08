@@ -36,6 +36,7 @@
 [Discord](https://flathub.org/apps/com.discordapp.Discord) \
 [Steam](https://flathub.org/apps/com.valvesoftware.Steam) \
 [AdwSteamGtk](https://flathub.org/apps/io.github.Foldex.AdwSteamGtk) 
+[Heroic Games Launcher](https://flathub.org/apps/com.heroicgameslauncher.hgl)
 
 ### Theming 
 `nwg-look` 
