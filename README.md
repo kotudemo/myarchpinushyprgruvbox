@@ -43,7 +43,7 @@
 `kvantum`
 `qt5ct`
 `qt6ct` \
-[Kvantum Gruvbox theme](https://github.com/TheExacc/Gruvbox-Kvantum)_
+[Kvantum Gruvbox theme](https://github.com/TheExacc/Gruvbox-Kvantum)
 
 ## Browser settings 
 user.js from this repo 
