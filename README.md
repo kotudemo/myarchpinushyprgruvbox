@@ -6,6 +6,9 @@
 `fish`
 `foot`
 `fastfetch`
+`asciiquarium`
+`tty-clock`
+`nyancat`
 `starship`
 `nvim`
 `micro`
@@ -28,7 +31,6 @@
 `spotify-launcher`
 `librewolf-bin`
 `galculator`
-
 
 ## Flatpak software
 [Discord](https://flathub.org/apps/com.discordapp.Discord) \
