@@ -52,8 +52,11 @@ user.js from this repo
 ### Extensions 
 [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) \
 [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) \
-[nightTab](https://addons.mozilla.org/en-US/firefox/addon/nighttab/) \
+[nightTab](https://addons.mozilla.org/en-US/firefox/addon/nighttab/) with my gruvbox theme \
 [SponsorBlock](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/) 
+
+### Theme
+[Gruvbox](https://addons.mozilla.org/en-US/firefox/addon/gruvboxtheme/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 
 ## Extras
 If u r using Alpine/Openwrt/Debian-based/Arch-based/RPM-based u can use [this script](https://github.com/Snowy-Fluffy/zapret.installer) to setup zapret 
