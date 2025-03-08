@@ -8,6 +8,9 @@
 `fastfetch`
 `starship`
 `nvim`
+`micro`
+`geany`
+`wttrbar`
 `waybar-cava`
 `wofi`
 `mako`
@@ -17,12 +20,15 @@
 `wl-clipboard`
 `wlsunset`
 `wl-color-picker`
-`ark`
 `nemo`
-`mpv`
-`obs-studio`
+`ark`
 `transmission-gtk3`
+`obs-studio`
+`mpv`
+`spotify-launcher`
 `chromium`
+`librewolf-bin`
+`galculator`
 
 ### Theme for steam
 
