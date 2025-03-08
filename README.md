@@ -30,14 +30,11 @@
 `librewolf-bin`
 `galculator`
 
-### Theme for steam
 
-https://flathub.org/apps/com.valvesoftware.Steam \
-https://flathub.org/apps/io.github.Foldex.AdwSteamGtk 
-
-## Other flatpak software
-
-https://flathub.org/apps/com.discordapp.Discord
+## Flatpak software
+[Discord](https://flathub.org/apps/com.discordapp.Discord) \
+[Steam](https://flathub.org/apps/com.valvesoftware.Steam) \
+[AdwSteamGtk](https://flathub.org/apps/io.github.Foldex.AdwSteamGtk) \ 
 
 ### Theming 
 `nwg-look` 
@@ -47,8 +44,16 @@ https://flathub.org/apps/com.discordapp.Discord
 `kvantum`
 `qt5ct`
 `qt6ct` \
-https://github.com/TheExacc/Gruvbox-Kvantum
+[Kvantum Gruvbox theme](https://github.com/TheExacc/Gruvbox-Kvantum)_
 
-### Extras
-If u r using Alpine/Openwrt/Debian-based/Arch-based/RPM-based u can use this script to setup zapret 
-https://github.com/Snowy-Fluffy/zapret.installer
+## Browser settings 
+user.js from this repo 
+
+### Extensions 
+[Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) \
+[uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) \
+[nightTab](https://addons.mozilla.org/en-US/firefox/addon/nighttab/) \
+[SponsorBlock](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/) 
+
+## Extras
+If u r using Alpine/Openwrt/Debian-based/Arch-based/RPM-based u can use [this script](https://github.com/Snowy-Fluffy/zapret.installer) to setup zapret 
