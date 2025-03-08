@@ -26,7 +26,6 @@
 `obs-studio`
 `mpv`
 `spotify-launcher`
-`chromium`
 `librewolf-bin`
 `galculator`
 
@@ -50,9 +49,9 @@
 user.js from this repo 
 
 ### Extensions 
+[nightTab](https://addons.mozilla.org/en-US/firefox/addon/nighttab/) with my gruvbox theme \
 [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) \
 [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) \
-[nightTab](https://addons.mozilla.org/en-US/firefox/addon/nighttab/) with my gruvbox theme \
 [SponsorBlock](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/) 
 
 ### Theme
